@@ -1,0 +1,33 @@
+
+p:first-child {
+  font-style: italic;
+}
+span {
+  font-weight: bold;
+}
+.content,
+.card {
+  border-style: groove;
+  border-width: thin;
+  padding: 1em;
+}
+img{
+  width: 300px;
+}
+.card {
+  box-shadow: 5px 5px #E8E8E8;
+  max-width: 300px;
+  margin: auto;
+  background-color: #F5F5F5;
+  border-radius: 6px;
+  font-family: sans-serif;
+  text-align: justify;
+  }
+.list {
+  list-style-type: none;
+  text-align: left;
+}
+h3 {
+  font-size: 30px;
+  font-family: sans-serif;
+}
